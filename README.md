@@ -15,3 +15,6 @@ This respository contains manual test cases  prepared for the saucedemo (https:/
 1. TC_01 -  Verify login with valid credentials
 2. TC_02 - Verify adding an item to cart and completeing checkout
 3. TC_03 - Verify error message for empty checkout fields
+
+# Evidence
+Evidence/screenshots for executed test cases are available here [./evidence] .
